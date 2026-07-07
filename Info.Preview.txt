@@ -1,3 +1,18 @@
+Scénario Principal
+
+Utilisateur
+        ↓
+Outlook Web Add-in
+        ↓
+Office.js
+        ↓
+UPN utilisateur
+        ↓
+Service de consultation STOCOBJ
+        ↓
+Etat archive
+
+
 Objectif
 Remplacer le VSTO existant par :
 
