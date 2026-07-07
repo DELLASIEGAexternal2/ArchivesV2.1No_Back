@@ -1,0 +1,47 @@
+Objectif
+Remplacer le VSTO existant par :
+
+Outlook Add-in
+
+doit faire:
+
+Lire des mails
+
+↓
+
+Construire une archive
+
+↓
+
+Télécharger le résultat
+
+MVP
+
+MES ARCHIVES
+
+[ Charger le mail ]
+
+[ Ajouter à l'archive ]
+
+[ Télécharger ]
+
+Données stockées
+
+{
+   id: "...",
+   sujet: "...",
+   expediteur: "...",
+   date: "...",
+   corps: "..."
+}
+
+IndexedDB
+
+archives
+
+Export
+Formats : JSON
+
+CSV
+
+TXT
